@@ -9,10 +9,18 @@ h4 {font-family: 'Playfair Display', serif;
 h5 {font-family: 'Playfair Display SC', serif;
   color: #8B4513;
 }
+h6 {font-family: 'Playfair Display', serif;
+  color: #8B4513;
+}
 p {font-family: 'Sarabun', sans-serif;
+  color: #8B4513;
 }
 body {font-family: 'Sarabun', sans-serif;
+  color: #8B4513;
 }
 .my-font {color: #8B4513;
   font-family: 'Playfair Display SC', serif;
+}
+.nav-item {color: white;
+  background-color: transparent;
 }
