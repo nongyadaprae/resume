@@ -1,0 +1,27 @@
+.my-bg {background-color: #FFEFD5;
+}
+h1 {font-family: 'Chonburi', cursive;
+  color: #8B4513;
+}
+h4 {font-family: 'Playfair Display', serif;
+  color: #8B4513;
+}
+h5 {font-family: 'Playfair Display SC', serif;
+  color: #8B4513;
+}
+h6 {font-family: 'Playfair Display', serif;
+  color: #8B4513;
+}
+p {font-family: 'Sarabun', sans-serif;
+  color: #8B4513;
+}
+body {font-family: 'Sarabun', sans-serif;
+  color: #8B4513;
+}
+.my-font {color: #8B4513;
+  font-family: 'Playfair Display SC', serif;
+}
+.nav-item {font-family: 'Playfair Display', serif;
+  color: #8B4513;
+  background-color: transparent;
+}
